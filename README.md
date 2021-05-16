@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on T-Shirt customization.
+- 🔭 I’m currently working on T-Shirt customization on web.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on research for innovative interactions for customization GUIs.
 - 🤔 I’m looking for help with texturing in 3D environment on web.
