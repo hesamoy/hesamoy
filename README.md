@@ -1,5 +1,5 @@
 ### Hi there 👋
-  my name is Hesam, and I am lecturer at University of Tehran, my interest is develop interactive 3D applications on web.
+  my name is Hesam, and I am a lecturer at University of Tehran, my interest is to develop interactive 3D applications on the web.
 - 🔭 I’m currently working on T-Shirt customization on web.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on research for innovative interactions for customization GUIs.
